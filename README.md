@@ -77,43 +77,10 @@ Once both servers are running:
 
 ---
 
-## 📦 Project Dependencies
-
-### Frontend
-
-- `@material-ui/core`
-- `@material-ui/icons`
-- `@material-ui/lab`
-- `axios`
-- `material-ui-chip-input`
-- `react-phone-input-2`
-
-### Backend
-
-- `bcrypt`
-- `body-parser`
-- `connect-flash`
-- `connect-mongo`
-- `cors`
-- `crypto`
-- `express`
-- `express-session`
-- `jsonwebtoken`
-- `mongoose`
-- `mongoose-type-email`
-- `multer`
-- `passport`
-- `passport-jwt`
-- `passport-local`
-- `uuid`
-
----
-
 ## 🖥️ Machine Specifications (Tested On)
 
-- **Operating System:** Elementary OS 5.1 (Hera)
-- **Terminal:** Bash
-- **Processor:** Intel Core i7-8750H @ 2.20GHz
+- **Operating System:** Windows 11 Home
+- **Processor:** Intel Core i5-11400H @ 2.20GHz
 - **RAM:** 16 GB
 
 ---
